@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654865288 source:d:\c++\practice\main.cpp
+	<iostream>
+
+1654883930 source:d:\c++\practice\forloop.cpp
+	<iostream>
+
